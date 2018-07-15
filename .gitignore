@@ -1,6 +1,6 @@
 
 # Created by https://www.gitignore.io/api/swift,xcode,macos
-
+*.gpx
 ### macOS ###
 # General
 .DS_Store
